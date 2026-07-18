@@ -15,8 +15,7 @@ The system operates through a simple, robust logic flow:
 * Light Sensing: The LDR acts as a voltage divider, where resistance changes based on ambient light intensity.
 * Processing Core: The Arduino Uno reads the analog value from the LDR and compares it against a pre-defined threshold.
 * Switching Mechanism: Once darkness is detected, the microcontroller triggers a relay module to activate the light bulb.
-<img width="906" height="738" alt="لقطة شاشة 2026-07-18 145618" src="https://github.com/user-attachments/assets/76bf884f-69d7-4904-9fe0-44586f41248d" />
-<img width="1117" height="761" alt="لقطة شاشة 2026-07-18 145526" src="https://github.com/user-attachments/assets/72a5f78a-c113-4597-b79b-4506575e3d45" />
+<img width="1117" height="761" alt="لقطة شاشة 2026-07-18 145526" src="https://github.com/user-attachments/assets/a58e6a3e-485e-48e5-9c92-2ab41c7ba425" />
 
 ---
 
@@ -26,6 +25,7 @@ The prototype is constructed using the following core components:
 * LDR (Light Dependent Resistor): To detect ambient light levels.
 * 10kΩ Resistor: Used in the voltage divider circuit with the LDR.
 * Relay Module: To safely control the high-voltage light bulb via the low-voltage Arduino signals.
+<img width="906" height="738" alt="لقطة شاشة 2026-07-18 145618" src="https://github.com/user-attachments/assets/87ca69e5-2c6c-4a24-9fee-eb0c86dfad1e" />
 
 
 ---
