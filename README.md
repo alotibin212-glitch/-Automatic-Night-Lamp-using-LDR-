@@ -38,4 +38,4 @@ The firmware utilizes simple analogRead() functions to monitor the sensor:
 ---
 
 ## 👤 Developer
-* Eng. Noura Abbad Al-Qathami - [https://github.com/alotibin212-glitch](https://github.com/alotibin212-glitch)
+* Eng. Norah Al-Qathami - 
